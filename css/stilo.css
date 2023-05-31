@@ -1,13 +1,24 @@
 h1 {
-    border: solid 2px black;
-    background-color: bisque;
+    border: solid 2px rgb(223, 120, 134);
+    background-color: rosybrown;
     text-align: center;
     padding: 15px;
 }
 #PieDePagina {
-    box-shadow: 10px 5px 8px red;
+    box-shadow: 10px 5px 8px rgb(196, 217, 230);
     padding: 5px 10px ;
     margin: 10px;
     border-radius: 6px;
     background-color: gray;
+}
+body {
+    background-color: antiquewhite;
+    background-image: url("imgs/2bsola.jpg");
+}
+body {
+    background-image: url("/imgs/2bsola.jpg");
+    background-repeat: no-repeat ;
+    background-attachment: fixed ;
+    background-size: 2000px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
