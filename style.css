@@ -40,10 +40,8 @@
     margin-left: 500px;
 }
 body {
-
-    background-image: url(fondo3.png);
-    background-image: url(imgs/fondo3.png);
-    background-position: center center;
-    background-size: cover;
-
+    background-image: url("/imgs/2bSola.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 2000px;
 }
