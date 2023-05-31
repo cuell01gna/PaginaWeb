@@ -41,11 +41,8 @@
 }
 body {
 
-<<<<<<< HEAD
     background-image: url(fondo3.png);
-=======
     background-image: url(imgs/fondo3.png);
->>>>>>> 5bdef1a1fe8037e1515c980b4a3b20af945d0bb8
     background-position: center center;
     background-size: cover;
 
