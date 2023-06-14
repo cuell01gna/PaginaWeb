@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: royalblue;
+    border: solid 2px;
+    text-transform: uppercase;
+    border-radius: 5px;
+
+}
+nav {
+        background-color: #ffffff; /* Color de fondo de la barra de navegación */
+        border-radius: 2px;
+      }
+      
+      nav ul {
+        list-style-type: none; /* Elimina los puntos de viñeta de la lista */
+        margin: 0;
+        padding: 0;
+      }
+      
+      nav li {
+        display: inline-block; /* Los elementos de navegación se muestran en línea */
+      }
+      
+      nav a {
+        display: block;
+        color: rgb(0, 0, 0); /* Color del texto de los enlaces */
+        text-decoration: none; /* Elimina la subrayado de los enlaces */
+        padding: 10px 20px; /* Espaciado alrededor de los enlaces */
+      }
+      
+      nav a:hover {
+        background-color: #ffffff; /* Color de fondo cuando se pasa el ratón por encima */
+}
+#BQD {
+    left: 300px;
+}
