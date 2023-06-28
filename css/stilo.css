@@ -41,7 +41,10 @@ p span {
     padding: 5px 10px ;
     margin: 10px;
     border-radius: 6px;
-    background-color: rgb(224, 218, 218);
+    background-color: red;
+}
+#PieDePagina:hover {
+    background-color: aqua;
 }
 /*selector de clase*/
 .destacado {
