@@ -59,7 +59,7 @@ div > p {
 }
 /*slector adyacente*/
 li + li {
-    background-color: crimson;
+    background-color: rgba(235, 216, 44, 0.274);
 }
 
 /* selector de atributo */
